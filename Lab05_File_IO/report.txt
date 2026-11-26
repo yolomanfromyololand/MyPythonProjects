@@ -1,0 +1,13 @@
+Name	Grade	Letter
+Avery	88	B
+Jordan	95	A
+Riley	82	B
+Taylor	91	A
+Sasha	77	C
+Amir	85	B
+Priya	90	A
+Kai	93	A
+Lina	80	B
+Diego	87	B
+Top student: Jordan
+Class average: 86.8

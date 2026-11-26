@@ -1,0 +1,4 @@
+print("Hello World")      # displays a greeting
+   x = x + 1    # increase x by one
+for i in range(1,n):   # loop from 1 to n-1
+    calculateSum(a,b)  # call the function

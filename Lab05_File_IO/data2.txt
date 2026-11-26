@@ -1,0 +1,5 @@
+Line 1: Hello World,
+Line 2: Welcome to File Handling!
+Line 3: This is week 7.
+Line 4: We are progressing well!
+Line 5: Winter is arriving soon!
